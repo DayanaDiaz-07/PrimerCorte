@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#mapid { height: 180px; }
+
+
+#fondo1{  
+    background-image: url("https://s1.1zoom.me/big0/176/Sunrises_and_sunsets_Bicycle_570398_1280x853.jpg");   
+  }           
+
+  #fondo2{
+    /* background-image: url("https://image.freepik.com/vector-gratis/fondo-abstracto-formas-blancas_79603-1362.jpg"); */
+    
+  }
+
+#formulario{ 
+  padding-top:5%;
+  padding-left: 30%;
+  padding-bottom:5%;
+  
+
+}
+
+.leaflet-container{
+  width: 100%;
+  height: 450px;
+}
+
+/* #footer{
+  position:absolute;
+top: 70%;
+
+} */
+
